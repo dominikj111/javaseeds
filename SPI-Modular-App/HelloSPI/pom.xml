@@ -65,6 +65,9 @@
         <targetPath>${basedir}/target/modules</targetPath>
         <filtering>false</filtering>
       </resource>
+      <resource>
+        <directory>${basedir}/src/resources</directory>
+      </resource>
     </resources>
   </build>
 </project>
