@@ -2,7 +2,7 @@
 */.DS_Store
 .DS_Store
 
-*/target
+*target
 
 SPI-Modular-App/HelloSPI/dependency-reduced-pom.xml
 SPI-Modular-App/HelloSPI/modules/*.jar
